@@ -1,0 +1,16 @@
+C:\Users\alexs\Prototipo2P\EjecucionP2\EjecucionP2\bin\Debug\EjecucionP2.exe.config
+C:\Users\alexs\Prototipo2P\EjecucionP2\EjecucionP2\bin\Debug\EjecucionP2.exe
+C:\Users\alexs\Prototipo2P\EjecucionP2\EjecucionP2\bin\Debug\EjecucionP2.pdb
+C:\Users\alexs\Prototipo2P\EjecucionP2\EjecucionP2\bin\Debug\CapaVista.dll
+C:\Users\alexs\Prototipo2P\EjecucionP2\EjecucionP2\bin\Debug\CapaControlador.dll
+C:\Users\alexs\Prototipo2P\EjecucionP2\EjecucionP2\bin\Debug\CapaModelo.dll
+C:\Users\alexs\Prototipo2P\EjecucionP2\EjecucionP2\bin\Debug\CapaVista.pdb
+C:\Users\alexs\Prototipo2P\EjecucionP2\EjecucionP2\bin\Debug\CapaControlador.pdb
+C:\Users\alexs\Prototipo2P\EjecucionP2\EjecucionP2\bin\Debug\CapaModelo.pdb
+C:\Users\alexs\Prototipo2P\EjecucionP2\EjecucionP2\obj\Debug\EjecucionP2.csprojAssemblyReference.cache
+C:\Users\alexs\Prototipo2P\EjecucionP2\EjecucionP2\obj\Debug\EjecucionP2.Properties.Resources.resources
+C:\Users\alexs\Prototipo2P\EjecucionP2\EjecucionP2\obj\Debug\EjecucionP2.csproj.GenerateResource.cache
+C:\Users\alexs\Prototipo2P\EjecucionP2\EjecucionP2\obj\Debug\EjecucionP2.csproj.CoreCompileInputs.cache
+C:\Users\alexs\Prototipo2P\EjecucionP2\EjecucionP2\obj\Debug\EjecucionP2.csproj.CopyComplete
+C:\Users\alexs\Prototipo2P\EjecucionP2\EjecucionP2\obj\Debug\EjecucionP2.exe
+C:\Users\alexs\Prototipo2P\EjecucionP2\EjecucionP2\obj\Debug\EjecucionP2.pdb
